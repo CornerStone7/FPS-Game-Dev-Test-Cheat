@@ -2,7 +2,7 @@
 # FPS Game : Dev Test Cheat
 
 A simple internal cheat for FPS Game : Dev Test.\
-All credits go to the kind and helpful community @ UnknownCheats
+All credits go to the kind and helpful community @ UnKnoWncheaTs
 
 
 
