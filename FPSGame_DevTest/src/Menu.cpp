@@ -24,7 +24,7 @@ void Menu::DrawTitle(SDK::UCanvas* canvas)
 {
 	SDK::FVector2D screenPos{ 100, 50 };
 	SDK::FVector2D scale{ 2.0f, 2.0f };
-	SDK::FString renderText{ L"All credits go to the helpful community @ UnknownCheats" };
+	SDK::FString renderText{ L"All credits go to the helpful community @ UnKnoWncheaTs" };
 	canvas->K2_DrawText(Font::defaultFont, renderText, screenPos, scale, Color::red, false, Color::none, SDK::FVector2D{ 0.0f, 0.0f }, false, true, true, Color::none);
 }
 
